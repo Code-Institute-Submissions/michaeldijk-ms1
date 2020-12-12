@@ -1,2 +1,8 @@
-/* CSS Document */
-
+/*General styling*/
+body {
+    margin: 0;
+}
+/*------------------------------------First Section Styling*/
+.first-section-row {
+    height: 100vh;
+}
