@@ -38,3 +38,8 @@ p {
     height: 100vh;
 	background: #404040;
 }
+
+/*------------------------------------Footer Section Styling*/
+.footer-section-row {
+	background: blue;
+}
