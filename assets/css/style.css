@@ -1,8 +1,40 @@
-/*General styling*/
+/*------------------------------------General styling*/
 body {
     margin: 0;
 }
-/*------------------------------------First Section Styling*/
-.first-section-row {
+
+/*------------------------------------Text styling*/
+p {
+	color: #F2F2F2;
+}
+
+
+/*------------------------------------Intro Section Styling*/
+.intro-section-row {
     height: 100vh;
+	background: #F23827;
+}
+
+/*------------------------------------About Section Styling*/
+.about-section-row {
+    height: 100vh;
+	background: #F25041;
+}
+
+/*------------------------------------Portfolio Section Styling*/
+.portfolio-section-row {
+    height: 100vh;
+	background: #404040;
+}
+
+/*------------------------------------Process Section Styling*/
+.process-section-row {
+    height: 100vh;
+	background: #F25041;
+}
+
+/*------------------------------------Contact Section Styling*/
+.contact-section-row {
+    height: 100vh;
+	background: #404040;
 }
