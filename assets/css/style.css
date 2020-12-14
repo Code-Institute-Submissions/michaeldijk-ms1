@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&family=Source+Sans+Pro:wght@900&display=swap'); /*------------------------------------Google Fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&family=Source+Sans+Pro:wght@900&display=swap'); /*------------------------------------Google Fonts*/
 
 /*------------------------------------General styling*/
 body {
@@ -34,13 +34,46 @@ h1 {
 .intro-h1 {
 	line-height: 52px;
     font-size: 47px;
+	color: #404040;
 }
 
 .intro-paragraph {
 	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+}
+
+
+/*------------------ Portfolio text styling*/
+.portfolio-section-title {
+	font-size: 47px;
+    color: #F27166;
+    text-align: center;
+    text-transform: uppercase;
+}
+.card-title-text {
+	font-family: 'Source Sans Pro', sans-serif;
+	color: #404040;
+	
+}
+
+.card-main-text {
+	font-family: 'Roboto', sans-serif;
+	color: #F2F2F2;
+	font-weight: 300;
+}
+
+.section-titles1 {
+	color: #F27166;
 }
 
 /*------------------ About text styling*/
+.about-section-title {
+	font-size: 47px;
+    color: #404040;
+    text-align: center;
+    text-transform: uppercase;
+}
+
 .about-paragraph {
 	text-align: justify;
 }
@@ -50,6 +83,7 @@ h1 {
 }
 
 .about-icons1 {
+	color: #404040;
     font-size: 50px;
     text-align: center;
     margin-top: -12px;
@@ -138,12 +172,16 @@ h1 {
 
 /*------------------------------------Portfolio Section Styling*/
 .portfolio-section-row {
-    height: 100vh;
 	background: #404040 url("../images/third-divide.png") no-repeat scroll;
     background-position: bottom -25px center;
     background-size: 100% 126px;
     padding-bottom: 66px;
 }
+
+.card-main-styling {
+background: #F23827;	
+}
+
 /*------------------------------------Process Section Styling*/
 .process-section-row {
     height: 100vh;
