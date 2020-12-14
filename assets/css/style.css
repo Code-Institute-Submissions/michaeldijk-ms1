@@ -47,7 +47,7 @@ p {
 /*------------------------------------Portfolio Section Styling*/
 .portfolio-section-row {
     height: 100vh;
-	background: #404040 url(../images/second-divide.png) no-repeat scroll;
+	background: #404040 url("../images/third-divide.png") no-repeat scroll;
     background-position: bottom -25px center;
     background-size: 100% 126px;
     padding-bottom: 66px;
