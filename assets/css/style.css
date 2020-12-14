@@ -40,6 +40,28 @@ h1 {
 	font-family: 'Roboto', sans-serif;
 }
 
+/*------------------ About text styling*/
+.about-paragraph {
+	text-align: justify;
+}
+
+.about-icons {
+	color: #404040;
+}
+
+.about-icons1 {
+    font-size: 50px;
+    text-align: center;
+    margin-top: -12px;
+    margin-left: 0px;
+}
+
+.about-icons-text {
+	text-align: center;
+    font-size: 16px;
+    margin-top: -16px;
+}
+
 /*------------------------------------Navigation styling =) the magical bar of wonders..*/
 .bg-red {
     background-color: #F23827;
@@ -99,14 +121,21 @@ h1 {
 }
 
 .photo {
-	width: 200px;
-	height: 200px;
-	border-radius: 25px;
-	-moz-box-shadow: 1px 7px 18px 0px rgba(0, 0, 0, 0.89);
+	width: 100%;
+    height: auto;
+    border-radius: 25px;
+    -moz-box-shadow: 1px 7px 18px 0px rgba(0, 0, 0, 0.89);
     -webkit-box-shadow: 1px 7px 18px 0px rgba(0, 0, 0, 0.54);
     -moz-box-shadow: 1px 7px 18px 0px rgba(0, 0, 0, 0.54);
     box-shadow: 1px 7px 18px 0px rgba(0, 0, 0, 0.40);
+	margin-bottom: 20px;
 }
+
+.about-skills-icons-row {
+	margin-left: 0;
+    margin-right: 0;
+}
+
 /*------------------------------------Portfolio Section Styling*/
 .portfolio-section-row {
     height: 100vh;
