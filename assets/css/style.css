@@ -15,6 +15,21 @@ h1 {
 }
 
 /*------------------------------------ Specific text styling*/
+/*------------------ Navigation text styling*/
+.nav-link {
+	color: #F2F2F2;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-brand {
+	font-family: 'Roboto', sans-serif;
+}
+
+.navbar-dark .navbar-toggler .navbar-nav .nav-link {
+    color: #F2F2F2;
+    border-color: #F2F2F2;
+}
+
 /*------------------ Intro text styling*/
 .intro-h1 {
 	line-height: 52px;
@@ -39,7 +54,40 @@ h1 {
     background: #F23827 url("../images/first-divide.png") no-repeat scroll;
     background-position: bottom -25px center;
     background-size: 100% 126px;
+	text-align: center;
 }
+
+.btn-warning {
+    color: #F2F2F2;
+    background-color: #404040;
+    border-color: #404040;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.btn-warning:active {
+    color: #F2F2F2;
+    background-color: #404040;
+    border-color: #404040;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.btn-warning:active {
+    color: #F2F2F2;
+    background-color: #404040;
+    border-color: #404040;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.btn-warning:hover {
+    color: #F2F2F2;
+    background-color: #404040;
+    border-color: #404040;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 22px;
+	animation-duration: 1s;
+}
+
+
 /*------------------------------------About Section Styling*/
 .about-section-row {
     background: #F25041;
