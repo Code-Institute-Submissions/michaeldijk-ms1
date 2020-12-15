@@ -8,6 +8,7 @@ body {
 p {
     color: #F2F2F2;
 	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
 }
 
 h1 {
@@ -129,6 +130,22 @@ a {
 	font-weight: 100;
 }
 
+.process-card-body {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+    text-align: justify;
+    color: #F2F2F2;
+    background-color: #404040;
+    margin-bottom: 10px;
+}
+
+
+/*------------------------------ Contact form text styling*/
+.form-label-override {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+    color: #F2F2F2;
+}
 
 /*------------------------------ Footer text styling*/
 .footer-section-text {
@@ -255,6 +272,21 @@ a {
     background: #404040;
     padding-top: 20px;
 	padding-bottom: 20px;
+	text-align: center;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #F27166;
+    border-color: #F27166;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #F27166;
+    border-color: #F27166;
+	font-family: 'Source Sans Pro', sans-serif;
 }
 /*------------------------------------Footer Section Styling*/
 .footer-section-row {
