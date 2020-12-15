@@ -4,7 +4,7 @@
 body {
     margin: 0;
 }
-/*------------------------------------ General text styling*/
+/*------------------------------ General text styling*/
 p {
     color: #F2F2F2;
 	font-family: 'Roboto', sans-serif;
@@ -14,23 +14,31 @@ h1 {
 	font-family: 'Source Sans Pro', sans-serif;
 }
 
-/*------------------------------------ Specific text styling*/
-/*------------------ Navigation text styling*/
+a:hover {
+    color: #404040;
+}
+
+.page-icons {
+	color: #404040;
+}
+
+/*----------------------------- Specific text styling*/
+/*--------------------------- Navigation text styling*/
 .nav-link {
-	color: #F2F2F2;
+	color: #404040;
     font-family: 'Roboto', sans-serif;
 }
 
-.navbar-brand {
+.navbar-brand-overwrite {
 	font-family: 'Roboto', sans-serif;
+	color: #404040;
 }
 
-.navbar-dark .navbar-toggler .navbar-nav .nav-link {
-    color: #F2F2F2;
-    border-color: #F2F2F2;
+.navbar-dark .navbar-nav .nav-link {
+    color: #404040;
 }
 
-/*------------------ Intro text styling*/
+/*--------------------------------- Intro text styling*/
 .intro-h1 {
 	line-height: 52px;
     font-size: 47px;
@@ -43,7 +51,7 @@ h1 {
 }
 
 
-/*------------------ Portfolio text styling*/
+/*------------------------------ Portfolio text styling*/
 .portfolio-section-title {
 	font-size: 47px;
     color: #F27166;
@@ -53,6 +61,7 @@ h1 {
 .card-title-text {
 	font-family: 'Source Sans Pro', sans-serif;
 	color: #404040;
+    text-align: center;
 	
 }
 
@@ -60,13 +69,14 @@ h1 {
 	font-family: 'Roboto', sans-serif;
 	color: #F2F2F2;
 	font-weight: 300;
+    text-align: justify;
 }
 
 .section-titles1 {
 	color: #F27166;
 }
 
-/*------------------ About text styling*/
+/*---------------------------------- About text styling*/
 .about-section-title {
 	font-size: 47px;
     color: #404040;
@@ -104,6 +114,7 @@ h1 {
     -moz-box-shadow: 1px 7px 18px 0px rgba(0, 0, 0, 0.54);
     box-shadow: 1px 7px 18px 0px rgba(0, 0, 0, 0.20);
 }
+
 /*------------------------------------Intro Section Styling*/
 .intro-section-row {
     height: 100vh;
@@ -175,11 +186,18 @@ h1 {
 	background: #404040 url("../images/third-divide.png") no-repeat scroll;
     background-position: bottom -25px center;
     background-size: 100% 126px;
-    padding-bottom: 66px;
+	padding-top: 20px;
+    padding-bottom: 102px;
 }
 
 .card-main-styling {
-background: #F23827;	
+	background: #F23827;
+	border-radius: 25px;
+}
+
+.card-img, .card-img-top {
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
 }
 
 /*------------------------------------Process Section Styling*/
