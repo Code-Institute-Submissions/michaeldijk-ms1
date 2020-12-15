@@ -18,6 +18,11 @@ a:hover {
     color: #404040;
 }
 
+a {
+    color: #404040;
+    text-decoration: none;
+}
+
 .page-icons {
 	color: #404040;
 }
@@ -122,6 +127,22 @@ a:hover {
 .process-paragraph {
 	text-align: justify;
 	font-weight: 100;
+}
+
+
+/*------------------------------ Footer text styling*/
+.footer-section-text {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+}
+
+.footer-icons {
+	color: #404040;
+	font-size: 30px;
+}
+
+.footer-email {
+	color: #F2F2F2;
 }
 
 /*------------------------------------Navigation styling =) the magical bar of wonders..*/
@@ -242,4 +263,6 @@ a:hover {
     -webkit-box-shadow: 1px 7px 18px 0px rgba(0, 0, 0, 0.54);
     -moz-box-shadow: 1px 7px 18px 0px rgba(0, 0, 0, 0.54);
     box-shadow: 1px -8px 18px 0px rgba(0, 0, 0, 0.20);
+	padding-top: 20px;
+	text-align: center;
 }		
