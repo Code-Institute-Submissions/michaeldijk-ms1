@@ -232,6 +232,8 @@ a:hover {
 .contact-section-row {
 /*    height: 100vh;*/
     background: #404040;
+    padding-top: 20px;
+	padding-bottom: 20px;
 }
 /*------------------------------------Footer Section Styling*/
 .footer-section-row {
