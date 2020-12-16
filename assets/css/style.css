@@ -300,16 +300,16 @@ a {
 }		
 
 /*------------------------------------ The land of Queries... */
-/* ------------------------ smaller phone viewpoints */
-@media only screen and (min-width: 320px) {
-
+/* ------------------------ smaller phone viewpoints up to most tablet viewpoints */
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+	.progress-bar-row {
+		display: none;
+	}
 }
 
 /* ------------------------ small devices and most phones */
-@media only screen and (min-width: 480px) and (max-width: 768px){
-	.progress-bar-row{
-		display: none;
-	}
+@media only screen and (min-width: 480px) {
+
 }
 
 /* ------------------------ most tablets */
