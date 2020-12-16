@@ -31,17 +31,17 @@ a {
 /*----------------------------- Specific text styling*/
 /*--------------------------- Navigation text styling*/
 .nav-link {
-	color: #404040;
+	color: #F2F2F2;
     font-family: 'Roboto', sans-serif;
 }
 
 .navbar-brand-overwrite {
 	font-family: 'Roboto', sans-serif;
-	color: #404040;
+	color: #F2F2F2;
 }
 
 .navbar-dark .navbar-nav .nav-link {
-    color: #404040;
+    color: #F2F2F2;
 }
 
 /*--------------------------------- Intro text styling*/
@@ -298,3 +298,33 @@ a {
 	padding-top: 20px;
 	text-align: center;
 }		
+
+/*------------------------------------ The land of Queries... */
+/* ------------------------ smaller phone viewpoints */
+@media only screen and (min-width: 320px) {
+
+}
+
+/* ------------------------ small devices and most phones */
+@media only screen and (min-width: 480px) and (max-width: 768px){
+	.progress-bar-row{
+		display: none;
+	}
+}
+
+/* ------------------------ most tablets */
+@media only screen and (min-width: 768px) {
+	.about-skills-icons-row {
+		display: none;
+	}
+}
+
+/* ------------------------ smaller desktop viewpoints */
+@media only screen and (min-width: 992px) {
+
+}
+
+/* ------------------------ large devices and wide screens */
+@media only screen and (min-width: 1200px) {
+
+}
