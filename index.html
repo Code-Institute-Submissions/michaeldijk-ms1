@@ -67,21 +67,21 @@
 		</div>
 		<div class="row justify-content-around progress-bar-row">
 		<div class="col-11">
-			<p>HTML</p>
-			<div class="progress">
-				<div class="progress-bar bg-success progress-bar-striped progress-bar-animated" role="progressbar" style="width: 25%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+			<p>Bootstrap</p>
+			<div class="progress progress-bar-styling">
+  				<div class="progress-bar bg-danger progress-bar-striped progress-bar-animated" role="progressbar" style="width: 60%" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
 			</div>
-			<p>HTML</p>
-			<div class="progress">
-  				<div class="progress-bar bg-info progress-bar-striped progress-bar-animated" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+			<p>CSS 3</p>
+			<div class="progress progress-bar-styling">
+  				<div class="progress-bar bg-info progress-bar-striped progress-bar-animated" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
 			</div>
-			<p>HTML</p>
-			<div class="progress">
-  				<div class="progress-bar bg-warning progress-bar-striped progress-bar-animated" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+			<p>JavaScript</p>
+			<div class="progress progress-bar-styling">
+  				<div class="progress-bar bg-warning progress-bar-striped progress-bar-animated" role="progressbar" style="width: 10%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
 			</div>
-			<p>HTML</p>
-			<div class="progress">
-  				<div class="progress-bar bg-danger progress-bar-striped progress-bar-animated" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+			<p>HTML5</p>
+			<div class="progress progress-bar-styling">
+				<div class="progress-bar bg-success progress-bar-striped progress-bar-animated" role="progressbar" style="width: 95%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
 			</div>
 			</div>
 		</div>
@@ -104,7 +104,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-6 mt-4">
+                <div class="col-sm-6 portfolio-card-margin">
                     <div class="card card-main-styling">
 						<img src="assets/images/portfolio/ongoing.png" class="card-img-top" alt="Ongoing project image">
 						<div class="card-body">
@@ -125,7 +125,8 @@
         <div class="col">
             <h1 class="process-section-title">Process</h1>
 			<p class="process-paragraph">I always work in a four step process. And I have described each step below. I take this approach, so my clients are always involved in each decission I make, and making sure that they are happy with the working results.</p>
-            <!-- Start of process cards section -->
+            <!-- Start of process cards section for small view windows -->
+			<div class="process-buttons-section">
             <p class="process-button"><a class="btn btn-warning" data-bs-toggle="collapse" href="#process1" role="button" aria-expanded="false" aria-controls="process1">Step #1</a></p>
             <div class="collapse" id="process1">
                 <div class="card card-body process-card-body">During our initial call or meeting, depending on what is prefered, we will discuss any kind of preferences, colours, and ideas you may have for the site. And I will then use this information, to create examples. I will also discuss pricing, what is required and what kind of hosting we would need to get. I always work on 50% paid up-front, and 50% once work is completed. We also set milestones, so we have key-dates to work towards to.</div>
@@ -142,7 +143,44 @@
             <div class="collapse" id="process4">
             <div class="card card-body process-card-body">Once we're in step #4, we will test the site, once the tests have completed, we will move the site to go-live. You then have a week to test the backend access, which we could do through wordpress, or any similar CMS, and I will be available for questions. After this week, I will have to ask for fee when support is necessary.</div>
             </div>
-            <!-- End of process cards section --> 
+			</div>
+            <!-- End of process cards section for small view windows --> 
+			<!-- Start of process section for larger view windows -->
+		<div class="process-columns-section">
+			<div class="row">
+				<div class="col-6 border-1 steps-larger-screens-text-left">
+					Step #1
+				</div>
+				<div class="col-6 border-1">
+					<p>During our initial call or meeting, depending on what is prefered, we will discuss any kind of preferences, colours, and ideas you may have for the site. And I will then use this information, to create examples. I will also discuss pricing, what is required and what kind of hosting we would need to get. I always work on 50% paid up-front, and 50% once work is completed. We also set milestones, so we have key-dates to work towards to.</p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-6 border-1">
+					<p>After about two weeks, I will show you the examples. What design examples work, and which ones do not. We will do so with wireframing, and if needed, some examples through working designs. From here onwards, I will then proceed to step #3, which is creating the actual site.</p>
+				</div>
+				<div class="col-6 border-1 steps-larger-screens-text-right">
+					Step #2
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-6 border-1 steps-larger-screens-text-left">
+					Step #3
+				</div>
+				<div class="col-6 border-1">
+					<p>In step #3, I will show you the examples, that we've created based on your input, and you then provide me with the remaining details, like specific texts, any images if not already provided and any other additional details.</p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-6 border-1">
+					<p>Once we're in step #4, we will test the site, once the tests have completed, we will move the site to go-live. You then have a week to test the backend access, which we could do through wordpress, or any similar CMS, and I will be available for questions. After this week, I will have to ask for fee when support is necessary.</p>
+				</div>
+				<div class="col-6 border-1 steps-larger-screens-text-right">
+					Step #4
+				</div>
+			</div>
+		</div>
+			<!-- End of process section for larger view windows -->
         </div>
     </div>
 </section>
