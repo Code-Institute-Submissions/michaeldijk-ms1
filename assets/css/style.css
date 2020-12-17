@@ -139,6 +139,28 @@ a {
     margin-bottom: 10px;
 }
 
+.steps-larger-screens-text-left {
+	font-family: 'Source Sans Pro', sans-serif;
+    font-size: 47px;
+    color: #404040;
+    text-transform: uppercase;
+    padding-left: 20px;
+    position: relative;
+    top: -19px;
+    left: -8px;
+}
+
+.steps-larger-screens-text-right {
+	font-family: 'Source Sans Pro', sans-serif;
+    font-size: 47px;
+    color: #404040;
+    text-transform: uppercase;
+    padding-left: 20px;
+    position: relative;
+    top: -19px;
+    left: -8px;
+}
+
 
 /*------------------------------ Contact form text styling*/
 .form-label-override {
@@ -237,6 +259,10 @@ a {
     margin-right: 0;
 }
 
+.progress-bar-styling {
+	margin-top: -15px;
+}
+
 /*------------------------------------Portfolio Section Styling*/
 .portfolio-section-row {
 	background: #404040 url("../images/third-divide.png") no-repeat scroll;
@@ -254,6 +280,10 @@ a {
 .card-img, .card-img-top {
     border-top-left-radius: 25px;
     border-top-right-radius: 25px;
+}
+
+.portfolio-card-margin {
+	margin-top: 20px;
 }
 
 /*------------------------------------Process Section Styling*/
@@ -305,6 +335,9 @@ a {
 	.progress-bar-row {
 		display: none;
 	}
+	.process-columns-section {
+		display: none;
+	}
 }
 
 /* ------------------------ small devices and most phones */
@@ -315,6 +348,14 @@ a {
 /* ------------------------ most tablets */
 @media only screen and (min-width: 768px) {
 	.about-skills-icons-row {
+		display: none;
+	}
+
+	.portfolio-card-margin {
+	margin-top: 0px;
+}
+	
+	.process-buttons-section {
 		display: none;
 	}
 }
