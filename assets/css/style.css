@@ -169,6 +169,13 @@ a {
     color: #F2F2F2;
 }
 
+.contact-section-title {
+	font-size: 47px;
+    color: #F27166;
+    text-align: center;
+    text-transform: uppercase;
+}
+
 /*------------------------------ Footer text styling*/
 .footer-section-text {
 	font-family: 'Roboto', sans-serif;
