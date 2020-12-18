@@ -183,6 +183,10 @@ a {
 	font-size: 30px;
 }
 
+.footer-icons:hover {
+	color: #F2F2F2;
+}
+
 .footer-email {
 	color: #F2F2F2;
 }
@@ -357,6 +361,10 @@ a {
 	.portfolio-card-margin {
 	margin-top: 0px;
 }
+	
+	.first-row-portfolio {
+		margin-bottom: 20px;
+	}
 	
 	.process-buttons-section {
 		display: none;
