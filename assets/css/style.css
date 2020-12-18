@@ -145,9 +145,7 @@ a {
     color: #404040;
     text-transform: uppercase;
     padding-left: 20px;
-    position: relative;
-    top: -19px;
-    left: -8px;
+	text-align: center;
 }
 
 .steps-larger-screens-text-right {
@@ -156,9 +154,7 @@ a {
     color: #404040;
     text-transform: uppercase;
     padding-left: 20px;
-    position: relative;
-    top: -19px;
-    left: -8px;
+    text-align: center;
 }
 
 
