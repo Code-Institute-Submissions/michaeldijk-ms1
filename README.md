@@ -1,7 +1,7 @@
 # Michael Dijk
 ## Personal Portfolio site
 
-### Visit the page in GitHub pages
+[MichaelDijk.com](michaeldijk.github.io/ms1/)
 ---
 This is a project for a portfolio site, showcasing current skills, interests and the process that is used for creating websites and working on client projects.
 
