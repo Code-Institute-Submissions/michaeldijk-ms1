@@ -378,5 +378,15 @@ a {
 
 /* ------------------------ large devices and wide screens */
 @media only screen and (min-width: 1200px) {
-
+	.about-section-row {
+    height: 100vh;
+}
+	
+	.process-section-row {
+    height: 100vh;
+}
+	
+	.contact-section-row {
+    height: 100vh;
+}
 }
