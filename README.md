@@ -1,45 +1,33 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+# Michael Dijk
+## Personal Portfolio site
 
-Welcome USER_NAME,
+### Visit the page in GitHub pages
+---
+This is a project for a portfolio site, showcasing current skills, interests and the process that is used for creating websites and working on client projects.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+The project is used for attracting new clients and prospective employers, to allow them to gain interest in my work, and how I take on new challenges.
 
-## Gitpod Reminders
+The reason for red colours and accents towards the red colours, is that red is my favourite colour, and, as I am colour blind it is sometimes hard to find the right balance in terms of colours matching up. Red is a very distinctive colour, allowing me to use this for the correct balance.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+The site had to be clean, minimal and there was a need for focus on the site’s content, and, with the creation of this site, this goal has been achieved. 
 
-`python3 -m http.server`
+Prospective employers and clients can have an overview of who I am, what skills I possess, and what sites I have created in my time as a junior developer / freelance developer.
 
-A blue button should appear to click: *Make Public*,
 
-Another blue button should appear to click: *Open Browser*.
+# UX
+## For what users is the site created?
+The site is created for prospective employers and prospective clients, to allow them an insight in my work process, my previous work / development jobs, and what interests I have further besides my development skills.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+## What need had to be fulfilled?
+A website, that was pleasing to the eyes, interactive on different view-windows, sparks interest, and portraying a minimalist design.
+How has the project helped achieve this goal?
+The goal has been achieved, by using a minimalist approach, with responsive design, different options visible on different view-windows. For example, the process section changes from small view-window (mobile) to large view-window, where the process is shown in a full section, as opposed to dropdown clickable buttons.
 
-A blue button should appear to click: *Make Public*,
+## How has the project helped achieve this goal?
+The goal has been achieved, by using a minimalist approach, with responsive design, different options visible on different view-windows. For example, the process section changes from small view-window (mobile) to large view-window, where the process is shown in a full section, as opposed to dropdown clickable buttons.
 
-Another blue button should appear to click: *Open Browser*.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-## Updates Since The Instructional Video
-
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
+## User Stories
+* As a potential customer, I want to have an overview of previous websites created, what skills was used, and a link towards that website to show me the working example
+* As a potential employer, I want to have an insight in the thought-process of how a design is coming to life, from A to Z
+* As a new visitor to the site, I want to be able to easily navigate between sections and find the menu for the site
+* As a potential customer, I want to be able to contact the site owner, find details on a contact number, and fill in a contact form to allow me to ask questions
