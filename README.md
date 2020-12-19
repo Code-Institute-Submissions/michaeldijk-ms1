@@ -2,6 +2,14 @@
 ## Personal Portfolio site
 
 [Visit the site on GitHub.io - MichaelDijk.com](https://michaeldijk.github.io/ms1/)
+
+## Index:
+* [UX section](https://github.com/michaeldijk/ms1#ux)
+* [Technologies Used](https://github.com/michaeldijk/ms1#technologies-used)
+* [Testing](https://github.com/michaeldijk/ms1#testing)
+* [Deployment](https://github.com/michaeldijk/ms1#deployment)
+* [Credits](https://github.com/michaeldijk/ms1#credits)
+
 ---
 This is a project for a portfolio site, showcasing current skills, interests and the process that is used for creating websites and working on client projects.
 
