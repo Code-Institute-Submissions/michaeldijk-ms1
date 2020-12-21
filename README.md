@@ -1,6 +1,8 @@
 # Michael Dijk
 ## Personal Portfolio site
 
+![Logo of Michael Dijk](https://github.com/michaeldijk/ms1/blob/master/readmefiles/logo.PNG)
+
 [Visit the site on GitHub.io - MichaelDijk.com](https://michaeldijk.github.io/ms1/)
 
 ## Index:
