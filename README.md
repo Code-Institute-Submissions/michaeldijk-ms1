@@ -40,6 +40,8 @@ The goal has been achieved, by using a minimalist approach, with responsive desi
 ![User Story #1](https://github.com/michaeldijk/ms1/blob/master/assets/images/readme/userstory1.PNG)
 * As a potential employer, I want to have an insight in the thought-process of how a design is coming to life, from A to Z
 ![User Story #2](https://github.com/michaeldijk/ms1/blob/master/assets/images/readme/userstory2.png)
+![User Story #2a](https://github.com/michaeldijk/ms1/blob/master/assets/images/readme/userstory2a.png)
+![User Story #2b](https://github.com/michaeldijk/ms1/blob/master/assets/images/readme/userstory2b.png)
 * As a new visitor to the site, I want to be able to easily navigate between sections and find the menu for the site
 ![User Story #2](https://github.com/michaeldijk/ms1/blob/master/assets/images/readme/userstory3a.PNG)
 ![User Story #2](https://github.com/michaeldijk/ms1/blob/master/assets/images/readme/userstory3b.PNG)
