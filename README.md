@@ -47,7 +47,7 @@ Please see the following document for:
 * Colours used in the site, and why these colours are the choosen colours
 * Example colour lay-outs
 
-[Wireframes, menu, colour options](https://github.com/michaeldijk/ms1/blob/master/readme_files/wireframes_menu_colour-options.pdf)
+[Wireframes, menu, colour options](https://github.com/michaeldijk/ms1/blob/master/readmefiles/wireframesmenucolouroptions.pdf)
 
 ### Features
 The website uses a *“one-page”* design. A navigation on top, which collapses into a burger menu for mobile view. 
