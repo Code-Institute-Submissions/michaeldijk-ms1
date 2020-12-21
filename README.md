@@ -313,6 +313,7 @@ Resolving deltas: 100% (135/135), done.”
 ### Code
 * I used text-shadow generator from [Text Shadow CSS Generator Online](https://html-css-js.com/css/generator/text-shadow/) – Which has been applied to both header and footer and menu button on small view-windows
 * I used bootstrap 5.0.0 BETA as my toolkit to create the site’s layout - [Bootstrap](https://getbootstrap.com/)
+* I used the media queries described from [W3Schools](https://www.w3schools.com/css/css_rwd_mediaqueries.asp), and adjusted it to meet my needs
 
 ### Acknowledgements
 * I found a lot of answers to queries I had on CSS-Tricks - [CSS Tricks](https://css-tricks.com/)
