@@ -36,26 +36,12 @@ The goal has been achieved, by using a minimalist approach, with responsive desi
 The goal has been achieved, by using a minimalist approach, with responsive design, different options visible on different view-windows. For example, the process section changes from small view-window (mobile) to large view-window, where the process is shown in a full section, as opposed to dropdown clickable buttons.
 
 #### User Stories
-* As a potential customer, I want to have an overview of previous websites created, what skills was used, and a link towards that website to show me the working example
-![User Story #1](https://github.com/michaeldijk/ms1/blob/master/assets/images/readme/userstory1.PNG)
-* As a potential employer, I want to have an insight in the thought-process of how a design is coming to life, from A to Z
-![User Story #2](https://github.com/michaeldijk/ms1/blob/master/assets/images/readme/userstory2.png)
-![User Story #2a](https://github.com/michaeldijk/ms1/blob/master/assets/images/readme/userstory2a.PNG)
-![User Story #2b](https://github.com/michaeldijk/ms1/blob/master/assets/images/readme/userstory2b.PNG)
-* As a new visitor to the site, I want to be able to easily navigate between sections and find the menu for the site
-![User Story #2](https://github.com/michaeldijk/ms1/blob/master/assets/images/readme/userstory3a.PNG)
-![User Story #2](https://github.com/michaeldijk/ms1/blob/master/assets/images/readme/userstory3b.PNG)
-![User Story #2](https://github.com/michaeldijk/ms1/blob/master/assets/images/readme/userstory3c.PNG)
-* As a potential customer, I want to be able to contact the site owner, find details on a contact number, and fill in a contact form to allow me to ask questions
-![User Story #2](https://github.com/michaeldijk/ms1/blob/master/assets/images/readme/userstory4.PNG)
+Please see the following link to a PDF file containing the user stories and images for the user stories:
+* [userstories](https://github.com/michaeldijk/ms1/blob/master/readmefiles/userstories.pdf)
 
-#### Wireframes / menu / colour options
-Please see the following document for:
-* Wireframes
-* Colours used in the site, and why these colours are the choosen colours
-* Example colour lay-outs
-
-[Wireframes, menu, colour options](https://github.com/michaeldijk/ms1/blob/master/readmefiles/wireframesmenucolouroptions.pdf)
+#### Wireframes / Navigation / Colour options
+Please see the following link to a PDF file containing the Wireframes / Navigation details and colour options choosen:
+* [Wireframes, Navigation, Colour options](https://github.com/michaeldijk/ms1/blob/master/readmefiles/wireframesnavigationcolouroptions.pdf)
 
 ### Features
 The website uses a *“one-page”* design. A navigation on top, which collapses into a burger menu for mobile view. 
