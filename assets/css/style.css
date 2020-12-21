@@ -372,6 +372,7 @@ a {
 }		
 
 /*------------------------------------ The land of Queries... */
+/* Used the list of queries for different view-windows from https://www.w3schools.com/css/css_rwd_mediaqueries.asp */
 /* ------------------------ smaller phone viewpoints up to most tablet viewpoints */
 @media only screen and (min-width: 320px) and (max-width: 767px) {
 	.progress-bar-row {
