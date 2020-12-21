@@ -213,6 +213,10 @@ a {
     box-shadow: 1px 7px 18px 0px rgba(0, 0, 0, 0.20);
 }
 
+.navbar-toggler-styling {
+	color: #F2F2F2;
+}
+
 
 /*------------------------------------Intro Section Styling*/
 .intro-section-row {
@@ -292,6 +296,10 @@ a {
 	.about-button {
 	margin-bottom: 10px;
 	}
+
+.progress-bar-bg {
+    background-color: #404040;
+}
 
 /*------------------------------------Portfolio Section Styling*/
 .portfolio-section-row {
