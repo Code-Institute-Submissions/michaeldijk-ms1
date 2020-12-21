@@ -37,7 +37,7 @@ The goal has been achieved, by using a minimalist approach, with responsive desi
 
 #### User Stories
 * As a potential customer, I want to have an overview of previous websites created, what skills was used, and a link towards that website to show me the working example
-[User Story #1](https://github.com/michaeldijk/ms1/blob/master/assets/images/readme/userstory1.PNG)
+![User Story #1](https://github.com/michaeldijk/ms1/blob/master/assets/images/readme/userstory1.PNG)
 * As a potential employer, I want to have an insight in the thought-process of how a design is coming to life, from A to Z
 * As a new visitor to the site, I want to be able to easily navigate between sections and find the menu for the site
 * As a potential customer, I want to be able to contact the site owner, find details on a contact number, and fill in a contact form to allow me to ask questions
