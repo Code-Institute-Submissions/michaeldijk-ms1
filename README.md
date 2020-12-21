@@ -42,13 +42,15 @@ The goal has been achieved, by using a minimalist approach, with responsive desi
 * As a potential customer, I want to be able to contact the site owner, find details on a contact number, and fill in a contact form to allow me to ask questions
 
 #### Wireframes / menu / colour options
-Please see the following document, for:
+Please see the following document for:
 * Wireframes
 * Colours used in the site, and why these colours are the choosen colours
 * Example colour lay-outs
 
+[Wireframes, menu, colour options](https://github.com/michaeldijk/ms1/blob/master/readme_files/wireframes_menu_colour-options.pdf)
+
 ### Features
-The website uses a “one-page” design. A navigation on top, which collapses into a burger menu for mobile view. 
+The website uses a *“one-page”* design. A navigation on top, which collapses into a burger menu for mobile view. 
 
 The hamburger menu icon has a comment next to it *“menu ->”* which hints the user that the menu is hidden behind the “burger” icon, representing the menu. This is done so there is a bit of a playful character given to the site. Just a small touch. As the site symbolizes minimalism, these small touches make it stand out.
 
@@ -297,16 +299,15 @@ Resolving deltas: 100% (135/135), done.”
 
 ### Media
 * About me section profile photo, is a photo I used and adjusted together with the use of Photoshop
-* The projects photo for the site “Sarina Nails & Beauty” has been created by myself, and the site’s design was a site I created as well
-* Image of the dbrand site, on the portfolio section is a screengrab of the website
-* Image of nu.nl site, on the portfolio section is a screengrab of the website
+* Image of the dbrand site, on the portfolio section is a screengrab of the website - [dbrand.com](https://dbrand.com/)
+* Image of nu.nl site, on the portfolio section is a screengrab of the website - [nu.nl](https://nu.nl/)
 
 ### Code
-* I used text-shadow generator from Text Shadow CSS Generator Online (html-css-js.com) – Which has been applied to both header and footer
-* I used bootstrap 5.0.0 BETA as my toolkit to create the site’s layout
+* I used text-shadow generator from [Text Shadow CSS Generator Online](https://html-css-js.com/css/generator/text-shadow/) – Which has been applied to both header and footer and menu button on small view-windows
+* I used bootstrap 5.0.0 BETA as my toolkit to create the site’s layout - [Bootstrap](https://getbootstrap.com/)
 
 ### Acknowledgements
-* I found a lot of answers to queries I had on CSS-Tricks (css-tricks.com)
-* My mentor helped me align towards a one-page design, where-as I started with separate pages, my mentor AkaAnto (Antonio Rodriguez) (github.com) has been a great help, always there when you have questions
-* I got design inspiration from dbrand.com in terms of minimalism and how to apply it to my page
-* I got design inspiration from Sean Halpin | Product Designer | Work, which approaches a website with minimalism, and this is something I liked a lot
+* I found a lot of answers to queries I had on CSS-Tricks - [CSS Tricks](https://css-tricks.com/)
+* My mentor helped me align towards a one-page design, where-as I started with separate pages, my mentor [Antonio Rodriguez](https://github.com/AkaAnto) has been a great help, always there when you have questions
+* I got design inspiration from [DBRAND](https://dbrand.com/) in terms of minimalism and how to apply it to my page
+* I got design inspiration from [sean Halpin (Irish Web Developer)](https://www.seanhalpin.design/) which approaches a website with minimalism, and this is something I liked a lot
