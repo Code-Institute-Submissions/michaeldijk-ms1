@@ -202,6 +202,7 @@ a {
     -webkit-box-shadow: 1px 7px 18px 0px rgba(0, 0, 0, 0.54);
     -moz-box-shadow: 1px 7px 18px 0px rgba(0, 0, 0, 0.54);
     box-shadow: 1px 7px 18px 0px rgba(0, 0, 0, 0.20);
+	/* Box shadow generator used to generate this shadow, from: https://html-css-js.com/css/generator/box-shadow/	*/
 }
 
 .navbar-toggler:focus {
@@ -211,6 +212,7 @@ a {
     -webkit-box-shadow: 1px 7px 18px 0px rgba(0, 0, 0, 0.54);
     -moz-box-shadow: 1px 7px 18px 0px rgba(0, 0, 0, 0.54);
     box-shadow: 1px 7px 18px 0px rgba(0, 0, 0, 0.20);
+	/* Box shadow generator used to generate this shadow, from: https://html-css-js.com/css/generator/box-shadow/	*/
 }
 
 .navbar-toggler-styling {
@@ -221,7 +223,7 @@ a {
 /*------------------------------------Intro Section Styling*/
 .intro-section-row {
     height: 100vh;
-    background: #F23827 url("../images/first-divide.png") no-repeat scroll;
+    background: #F23827 url("../images/firstdivide.png") no-repeat scroll;
     background-position: bottom -25px center;
     background-size: 100% 126px;
 	text-align: center;
@@ -262,7 +264,7 @@ a {
 /*------------------------------------About Section Styling*/
 .about-section-row {
     background: #F25041;
-    background: #F25041 url("../images/second-divide.png") no-repeat scroll;
+    background: #F25041 url("../images/seconddivide.png") no-repeat scroll;
     background-position: bottom -25px center;
     background-size: 100% 126px;
 	padding-top: 20px;
@@ -278,6 +280,7 @@ a {
     -moz-box-shadow: 1px 7px 18px 0px rgba(0, 0, 0, 0.54);
     box-shadow: 1px 7px 18px 0px rgba(0, 0, 0, 0.40);
 	margin-bottom: 20px;
+	/* Box shadow generator used to generate this shadow, from: https://html-css-js.com/css/generator/box-shadow/	*/
 }
 
 .about-skills-icons-row {
@@ -303,7 +306,7 @@ a {
 
 /*------------------------------------Portfolio Section Styling*/
 .portfolio-section-row {
-	background: #404040 url("../images/third-divide.png") no-repeat scroll;
+	background: #404040 url("../images/thirddivide.png") no-repeat scroll;
     background-position: bottom -25px center;
     background-size: 100% 126px;
 	padding-top: 20px;
@@ -327,7 +330,7 @@ a {
 /*------------------------------------Process Section Styling*/
 .process-section-row {
 /*    height: 100vh;*/
-    background: #F25041 url(../images/fourth-divide.png) no-repeat scroll;
+    background: #F25041 url(../images/fourthdivide.png) no-repeat scroll;
     background-position: bottom -25px center;
     background-size: 100% 126px;
     padding-top: 20px;
@@ -365,6 +368,7 @@ a {
     box-shadow: 1px -8px 18px 0px rgba(0, 0, 0, 0.20);
 	padding-top: 20px;
 	text-align: center;
+	/* Box shadow generator used to generate this shadow, from: https://html-css-js.com/css/generator/box-shadow/	*/
 }		
 
 /*------------------------------------ The land of Queries... */
