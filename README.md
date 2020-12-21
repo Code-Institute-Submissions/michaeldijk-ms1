@@ -37,7 +37,7 @@ The goal has been achieved, by using a minimalist approach, with responsive desi
 
 #### User Stories
 Please see the following link to a PDF file containing the user stories and images for the user stories:
-* [userstories](https://github.com/michaeldijk/ms1/blob/master/readmefiles/userstories.pdf)
+* [user stories](https://github.com/michaeldijk/ms1/blob/master/readmefiles/userstories.pdf)
 
 #### Wireframes / Navigation / Colour options
 Please see the following link to a PDF file containing the Wireframes / Navigation details and colour options choosen:
@@ -198,22 +198,25 @@ Any other fields, are optional, and not necessary to be filled in.
 * Portfolio / Projects section – instead of heading images, use a scrolling video, to allow some more interactivity between site and user/visitor
 
 ## Technologies used
-* Bootstrap 5.0.0 – BETA
-* Font awesome for site’s icons
-* Adobe spark for helping me with creation of my logo
-* Formspree – to allow the form to send details to my email
-* Adobe colours – to help with finding the right colour balance for the site
+* [Bootstrap 5.0.0 – BETA](https://getbootstrap.com/)
+* [Font awesome for site’s icons](https://fontawesome.com/)
+* [Adobe spark for helping me with creation of my logo](https://spark.adobe.com/sp/)
+* [Formspree – to allow the form to send details to my email](https://formspree.io/)
+* [Adobe colours – to help with finding the right colour balance for the site](https://color.adobe.com/Zodiac%20Watches%20Legacy-color-theme-16589302)
 * The project has been realized with HTML, CSS and JavaScript
-* Google Fonts – for the web-fonts on the site, both headings paragraphs and all the text are styled with Google Fonts
-* Popper.js – for responsive design and pop-ups incorporated into Bootstrap
-* Auto prefixer – to run through the CSS code, to see if I missed any settings for styling across different browsers
-* Photoshop – creating the logo sizing, creating favicon, and created my profile photo
-* Balsamiq – for wireframing the website
+	* [HTML5](https://en.wikipedia.org/wiki/HTML5)
+	* [CSS3](https://en.wikipedia.org/wiki/CSS#CSS_3)
+	* [JavaScript](https://www.javascript.com/)
+* [Google Fonts – for the web-fonts on the site, both headings paragraphs and all the text are styled with Google Fonts](https://fonts.google.com/)
+* [Popper.js – for responsive design and pop-ups incorporated into Bootstrap](https://popper.js.org/)
+* [Auto prefixer – to run through the CSS code, to see if I missed any settings for styling across different browsers](https://autoprefixer.github.io/)
+* [Photoshop – creating the logo sizing, creating favicon, and created my profile photo](https://www.adobe.com/ie/)
+* [Balsamiq – for wireframing the website](https://balsamiq.com/)
 
 ## Testing
 The website’s code has been checked and validated with the help of:
-* The W3C Markup Validation Service – HTML markup validation
-* The W3C CSS Validation Service – CSS markup validation
+* [The W3C Markup Validation Service – HTML markup validation](https://validator.w3.org/)
+* [The W3C CSS Validation Service – CSS markup validation](https://jigsaw.w3.org/css-validator/)
 
 ### User Story testing
 1. As a potential client, I want to get to know the owner of the site, to see if they align with our values, and, see some of their previous work. 
