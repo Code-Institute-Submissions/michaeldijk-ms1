@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&family=Source+Sans+Pro:wght@900&display=swap'); /*------------------------------------Google Fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300&family=Source+Sans+Pro:wght@900&display=swap'); /*------------------------------------Google Fonts*/
 
 /*------------------------------------General styling*/
 body {
@@ -6,9 +6,9 @@ body {
 }
 /*------------------------------ General text styling*/
 p {
-    color: #F2F2F2;
+    color: #000000;
 	font-family: 'Roboto', sans-serif;
-	font-weight: 100;
+	font-weight: 300;
 }
 
 h1 {
@@ -16,12 +16,14 @@ h1 {
 }
 
 a:hover {
-    color: #404040;
+    color: #000000;
+	text-shadow: 1px 7px 18px rgba(0, 0, 0, 0.20);
 }
 
 a {
-    color: #404040;
+    color: #000000;
     text-decoration: none;
+	text-shadow: 1px 7px 18px rgba(0, 0, 0, 0.20);
 }
 
 .page-icons {
@@ -31,17 +33,17 @@ a {
 /*----------------------------- Specific text styling*/
 /*--------------------------- Navigation text styling*/
 .nav-link {
-	color: #F2F2F2;
+	color: #000000;
     font-family: 'Roboto', sans-serif;
 }
 
 .navbar-brand-overwrite {
 	font-family: 'Roboto', sans-serif;
-	color: #F2F2F2;
+	color: #000000;
 }
 
 .navbar-dark .navbar-nav .nav-link {
-    color: #F2F2F2;
+    color: #000000;
 }
 
 .logo {
@@ -52,59 +54,59 @@ a {
 .intro-h1 {
 	line-height: 52px;
     font-size: 47px;
-	color: #404040;
+	color: #000000;
 }
 
 .intro-paragraph {
 	font-family: 'Roboto', sans-serif;
-	font-weight: 100;
+	font-weight: 300;
 }
 
 
 /*------------------------------ Portfolio text styling*/
 .portfolio-section-title {
 	font-size: 47px;
-    color: #F27166;
+    color: #000000;
     text-align: center;
     text-transform: uppercase;
 }
 .card-title-text {
 	font-family: 'Source Sans Pro', sans-serif;
-	color: #404040;
+	color: #000000;
     text-align: center;
 	
 }
 
 .card-main-text {
 	font-family: 'Roboto', sans-serif;
-	color: #F2F2F2;
-	font-weight: 100;
+	color: #000000;
+	font-weight: 300;
     text-align: justify;
 }
 
 .section-titles1 {
-	color: #F27166;
+	color: #000000;
 }
 
 /*---------------------------------- About text styling*/
 .about-section-title {
 	font-size: 47px;
-    color: #404040;
+    color: #000000;
     text-align: center;
     text-transform: uppercase;
 }
 
 .about-paragraph {
 	text-align: justify;
-	font-weight: 100;
+	font-weight: 300;
 }
 
 .about-icons {
-	color: #404040;
+	color: #000000;
 }
 
 .about-icons1 {
-	color: #404040;
+	color: #000000;
     font-size: 50px;
     text-align: center;
     margin-top: -12px;
@@ -115,12 +117,13 @@ a {
 	text-align: center;
     font-size: 16px;
     margin-top: -16px;
+	font-weight: 300;
 }
 
 /*------------------------------ Process text styling*/
 .process-section-title {
 	font-size: 47px;
-    color: #404040;
+    color: #000000;
     text-align: center;
     text-transform: uppercase;
 }
@@ -131,22 +134,22 @@ a {
 
 .process-paragraph {
 	text-align: justify;
-	font-weight: 100;
+	font-weight: 300;
 }
 
 .process-card-body {
 	font-family: 'Roboto', sans-serif;
-	font-weight: 100;
+	font-weight: 300;
     text-align: justify;
-    color: #F2F2F2;
-    background-color: #404040;
+    color: #000000;
+    background-color: #6b705c;
     margin-bottom: 10px;
 }
 
 .steps-larger-screens-text-left {
 	font-family: 'Source Sans Pro', sans-serif;
     font-size: 47px;
-    color: #404040;
+    color: #000000;
     text-transform: uppercase;
     padding-left: 20px;
 	text-align: center;
@@ -155,7 +158,7 @@ a {
 .steps-larger-screens-text-right {
 	font-family: 'Source Sans Pro', sans-serif;
     font-size: 47px;
-    color: #404040;
+    color: #000000;
     text-transform: uppercase;
     padding-left: 20px;
     text-align: center;
@@ -165,13 +168,13 @@ a {
 /*------------------------------ Contact form text styling*/
 .form-label-override {
 	font-family: 'Roboto', sans-serif;
-	font-weight: 100;
-    color: #F2F2F2;
+	font-weight: 300;
+    color: #000000;
 }
 
 .contact-section-title {
 	font-size: 47px;
-    color: #F27166;
+    color: #000000;
     text-align: center;
     text-transform: uppercase;
 }
@@ -179,25 +182,31 @@ a {
 /*------------------------------ Footer text styling*/
 .footer-section-text {
 	font-family: 'Roboto', sans-serif;
-	font-weight: 100;
+	font-weight: 300;
 }
 
 .footer-icons {
-	color: #404040;
+	color: #000000;
 	font-size: 30px;
 }
 
 .footer-icons:hover {
-	color: #F2F2F2;
+	color: #000000;
+	text-shadow: 1px 7px 18px 0px rgba(0, 0, 0, 0.20);
+}
+
+.footer-icons:active {
+	color: #000000;
+	text-shadow: 1px 7px 18px 0px rgba(0, 0, 0, 0.20);
 }
 
 .footer-email {
-	color: #F2F2F2;
+    color: #000000;
 }
 
 /*------------------------------------Navigation styling =) the magical bar of wonders..*/
 .bg-red {
-    background-color: #F23827;
+    background-color: #6b705c;
     -moz-box-shadow: 1px 7px 18px 0px rgba(0, 0, 0, 0.89);
     -webkit-box-shadow: 1px 7px 18px 0px rgba(0, 0, 0, 0.54);
     -moz-box-shadow: 1px 7px 18px 0px rgba(0, 0, 0, 0.54);
@@ -216,46 +225,47 @@ a {
 }
 
 .navbar-toggler-styling {
-	color: #F2F2F2;
+	color: #000000;
 }
 
 
 /*------------------------------------Intro Section Styling*/
 .intro-section-row {
     height: 100vh;
-    background: #F23827 url("../images/firstdivide.png") no-repeat scroll;
+    background: #FFE8D6 url("../images/firstdivide.png") no-repeat scroll;
     background-position: bottom -25px center;
     background-size: 100% 126px;
 	text-align: center;
 }
 
 .btn-warning {
-    color: #F2F2F2;
-    background-color: #404040;
+	color: #000000;
+    background-color: #6b705c;
     border-color: #404040;
-	font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
 }
 
 .btn-warning:active {
-    color: #F2F2F2;
-    background-color: #404040;
-    border-color: #404040;
+    color: #000000;
+    background-color: #6b705c;
+    border-color: #6b705c;
 	font-family: 'Source Sans Pro', sans-serif;
-}
-
-.btn-warning:active {
-    color: #F2F2F2;
-    background-color: #404040;
-    border-color: #404040;
-	font-family: 'Source Sans Pro', sans-serif;
+	-moz-box-shadow: 1px 7px 18px 0px rgba(0, 0, 0, 0.89);
+    -webkit-box-shadow: 1px 7px 18px 0px rgba(0, 0, 0, 0.54);
+    -moz-box-shadow: 1px 7px 18px 0px rgba(0, 0, 0, 0.54);
+    box-shadow: 1px 7px 18px 0px rgba(0, 0, 0, 0.20);
 }
 
 .btn-warning:hover {
-    color: #404040;
-    background-color: #F2F2F2;
-    border-color: #404040;
+    color: #000000;
+    background-color: #6b705c;
+    border-color: #6b705c;
 	font-family: 'Source Sans Pro', sans-serif;
 	animation-duration: 1s;
+	-moz-box-shadow: 1px 7px 18px 0px rgba(0, 0, 0, 0.89);
+    -webkit-box-shadow: 1px 7px 18px 0px rgba(0, 0, 0, 0.54);
+    -moz-box-shadow: 1px 7px 18px 0px rgba(0, 0, 0, 0.54);
+    box-shadow: 1px 7px 18px 0px rgba(0, 0, 0, 0.20);
 }
 
 
@@ -263,8 +273,7 @@ a {
 
 /*------------------------------------About Section Styling*/
 .about-section-row {
-    background: #F25041;
-    background: #F25041 url("../images/seconddivide.png") no-repeat scroll;
+    background: #B7B7A4 url("../images/seconddivide.png") no-repeat scroll;
     background-position: bottom -25px center;
     background-size: 100% 126px;
 	padding-top: 20px;
@@ -306,7 +315,7 @@ a {
 
 /*------------------------------------Portfolio Section Styling*/
 .portfolio-section-row {
-	background: #404040 url("../images/thirddivide.png") no-repeat scroll;
+	background: #DDBEA9 url("../images/thirddivide.png") no-repeat scroll;
     background-position: bottom -25px center;
     background-size: 100% 126px;
 	padding-top: 20px;
@@ -314,7 +323,7 @@ a {
 }
 
 .card-main-styling {
-	background: #F23827;
+	background: #6b705c;
 	border-radius: 25px;
 }
 
@@ -330,7 +339,7 @@ a {
 /*------------------------------------Process Section Styling*/
 .process-section-row {
 /*    height: 100vh;*/
-    background: #F25041 url(../images/fourthdivide.png) no-repeat scroll;
+    background: #B7B7A4 url(../images/fourthdivide.png) no-repeat scroll;
     background-position: bottom -25px center;
     background-size: 100% 126px;
     padding-top: 20px;
@@ -340,7 +349,7 @@ a {
 /*------------------------------------Contact Section Styling*/
 .contact-section-row {
 /*    height: 100vh;*/
-    background: #404040;
+    background: #DDBEA9;
     padding-top: 20px;
 	padding-bottom: 20px;
 	text-align: center;
@@ -361,7 +370,7 @@ a {
 }
 /*------------------------------------Footer Section Styling*/
 .footer-section-row {
-	background-color: #F23827;
+	background-color: #6b705c;
     -moz-box-shadow: 1px 7px 18px 0px rgba(0, 0, 0, 0.89);
     -webkit-box-shadow: 1px 7px 18px 0px rgba(0, 0, 0, 0.54);
     -moz-box-shadow: 1px 7px 18px 0px rgba(0, 0, 0, 0.54);
