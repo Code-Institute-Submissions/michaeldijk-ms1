@@ -22,7 +22,7 @@ a:hover {
 }
 
 a {
-    color: #000000;
+    color: #ffffff;
     text-decoration: none;
 	text-shadow: 1px 7px 18px rgba(0, 0, 0, 0.20);
 }
@@ -45,6 +45,11 @@ a {
 
 .logo {
 	height: 20px;
+}
+
+.navbar-toggler:hover {
+    text-decoration: none;
+    color: #000;
 }
 
 /*--------------------------------- Intro text styling*/
