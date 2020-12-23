@@ -20,9 +20,12 @@
 	* [Portfolio](https://github.com/michaeldijk/ms1#portfolio)
 	* [Process](https://github.com/michaeldijk/ms1#process)
 	* [Contact](https://github.com/michaeldijk/ms1#contact)
-	* [Current existing features](https://github.com/michaeldijk/ms1#technologies-used)
+	* [Current existing features](https://github.com/michaeldijk/ms1#current-existing-features)
+	* [Features left to implement in future releases](https://github.com/michaeldijk/ms1#features-left-to-implement-in-future-releases)
 * [Technologies Used](https://github.com/michaeldijk/ms1#technologies-used)
 * [Testing](https://github.com/michaeldijk/ms1#testing)
+	* [User Story testing](https://github.com/michaeldijk/ms1#user-story-testing)
+	* [Manual testing across different devices and browsers](https://github.com/michaeldijk/ms1#manual-testing-across-different-devices-and-browsers)
 * [Deployment](https://github.com/michaeldijk/ms1#deployment)
 * [Credits](https://github.com/michaeldijk/ms1#credits)
 
@@ -306,7 +309,7 @@ Any other fields, are optional, and not necessary to be filled in.
 * The contact form is responsive, and changes according to different view windows. On larger view windows, it expands and centers inside the page, and certain fields are shown next to each other. On smaller view windows, this all aligns below each other vertically
 * The footer has 3 sections, a contact section giving information about my email address and phone number, and middle section, linking towards my social media accounts, and the right section, a copyright disclaimer
 
-### Features left to omplement in future releases
+### Features left to implement in future releases
 * Insert google analytics to understand what customers do on my site, and where to adjust or make things more visible
 * GDPR / compliance checkbox, to allow/remove analytics
 * An expansion or pop-up to my full resume, and a downloadable resume link
@@ -375,7 +378,9 @@ The website’s code has been checked and validated with the help of:
 
 ## Deployment
 The project was developed using a local IDE, and with the integration of git, which allowed me to push each change towards my GitHub Repository.
-This project has been deployed on GitHub pages, and I've performed the following steps to make it accessible after committing to GitHub:
+This project has been deployed on GitHub pages.
+
+### How to deploy this on GitHub
 1. Login into GitHub.
 1. From the list of available repositories, the correct repository was chosen: michaeldijk/ms1
 1. Once the repository was opened, Settings was selected from the 3rd menu on the top, this is the icon with the gear wheel.
