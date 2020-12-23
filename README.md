@@ -45,28 +45,38 @@ Please see the following link to a PDF file containing the user stories and imag
 For wireframes, we used the software Balsamiq, to create the mock-ups. See the images below for each section:
 * Intro / Main section
 	* Mobile:
+	
 	![Intro Section wireframe, mobile](https://github.com/michaeldijk/ms1/blob/master/readmefiles/wireframe_intro_mobile.PNG)
 	* Desktop:
+	
 	![Intro Section wireframe, desktop](https://github.com/michaeldijk/ms1/blob/master/readmefiles/wireframe_intro_desktop.PNG)
 * About section
 	* Mobile:
+	
 	![About Section wireframe, mobile](https://github.com/michaeldijk/ms1/blob/master/readmefiles/wireframe_about_mobile.PNG)
 	* Desktop:
+	
 	![About Section wireframe, desktop](https://github.com/michaeldijk/ms1/blob/master/readmefiles/wireframe_about_desktop.PNG)
 * Portfolio section
 	* Mobile:
+	
 	![Portfolio Section wireframe, mobile](https://github.com/michaeldijk/ms1/blob/master/readmefiles/wireframe_portfolio_mobile.PNG)
 	* Desktop:
+	
 	![Portfolio Section wireframe, desktop](https://github.com/michaeldijk/ms1/blob/master/readmefiles/wireframe_portfolio_desktop.PNG)
 * Process section
 	* Mobile:
+	
 	![Process Section wireframe, mobile](https://github.com/michaeldijk/ms1/blob/master/readmefiles/wireframe_process_mobile.PNG)
 	* Desktop:
+	
 	![Process Section wireframe, desktop](https://github.com/michaeldijk/ms1/blob/master/readmefiles/wireframe_process_desktop.PNG)
 * Contact section
 	* Mobile:
+	
 	![Contact Section wireframe, mobile](https://github.com/michaeldijk/ms1/blob/master/readmefiles/wireframe_contact_mobile.PNG)
 	* Desktop:
+	
 	![Contact Section wireframe, desktop](https://github.com/michaeldijk/ms1/blob/master/readmefiles/wireframe_contact_desktop.PNG)
 	
 ### Features
