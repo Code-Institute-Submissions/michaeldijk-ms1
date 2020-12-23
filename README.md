@@ -104,11 +104,13 @@ Colours are a difficult subject for myself, as I am colour-blind. Therefore, I c
 I used coolors.co to allow me to find the right ratio’s / mix of colours, and this linked in with the contrast checker, I discovered the following:
 
 For the intro and footer section:
+
 ![Colours choosen for the site](https://github.com/michaeldijk/ms1/blob/master/readmefiles/intro_colour.PNG)
 * Background colour: #6b705c
 * Text: #ffffff
 
 Ratio’s according to userway’s checker:
+
 ![Userway Ratio's](https://github.com/michaeldijk/ms1/blob/master/readmefiles/intro_ratio.PNG)
 
 
