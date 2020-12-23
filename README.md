@@ -11,6 +11,7 @@
 	* [What need had to be fulfilled?](https://github.com/michaeldijk/ms1#what-need-had-to-be-fulfilled)
 	* [How has the project helped achieve this goal?](https://github.com/michaeldijk/ms1#how-has-the-project-helped-achieve-this-goal)
 	* [User Stories](https://github.com/michaeldijk/ms1#user-stories)
+	* [Wireframes, Navigation, Colours used](https://github.com/michaeldijk/ms1#wireframes-navigation-colours-used)
 * [Features](https://github.com/michaeldijk/ms1#features)
 	* [Intro](https://github.com/michaeldijk/ms1#intro)
 	* [About](https://github.com/michaeldijk/ms1#about)
@@ -55,7 +56,7 @@ Please see the following link to a PDF file containing the user stories and imag
 * [user stories](https://github.com/michaeldijk/ms1/blob/master/readmefiles/userstories.pdf)
 
 #### Wireframes, Navigation, Colours used
-Please see the following link to a PDF file containing the user stories and images for the user stories:
+Please see the following link to a markdown page containing the Wireframes, Navigation and colours used. I wanted to create a separate section for this, as it entails a lot of information, and would be best presented in a separate markdown page:
 * [Wireframes, Navigation, Colours used](https://github.com/michaeldijk/ms1/blob/master/wireframesnavigationcoloursreadme.md)
 
 ### Features
@@ -293,15 +294,17 @@ To clone this project to a local IDE of your choice you would have to follow the
 1. In the Code pop-up window, you select “HTTPS” but, this should be the default selection, copy the clone URL for the repository
 1. Open Git Bash in your local IDE
 1. Change the working directory to the directory where you want the cloned directory to be made
-1. Type 'git clone'', and then paste the URL that you've retrieved in step 3. “git clone https://github.com/michaeldijk/ms1.git”
+1. Type `git clone`, and then paste the URL that you've retrieved in step 3. `git clone https://github.com/michaeldijk/ms1.git`
 1. You then press Enter. Your local clone will be created. 
-“Cloning into 'ms1'...
+```
+Cloning into 'ms1'...
 remote: Enumerating objects: 290, done.
 remote: Counting objects: 100% (290/290), done.
 remote: Compressing objects: 100% (186/186), done.
 Receiving objecremote: Total 290 (delta 135), reused 223 (delta 73), pack-reused 0
 Receiving objects: 100% (290/290), 2.97 MiB | 5.43 MiB/s, done.
-Resolving deltas: 100% (135/135), done.”
+Resolving deltas: 100% (135/135), done.
+```
 1. After receiving confirmation that clone was "done", you can then open/work on the files that are downloaded to the folder of your choosing, you can also open the directory through your local IDE, and work on it from there onwards.
 1. You can afterwards, push this to a different branch, on the repository, in case you want to provide additional code towards my the downloaded project.
 
@@ -315,11 +318,13 @@ Resolving deltas: 100% (135/135), done.”
 * About me section profile photo, is a photo I used and adjusted together with the use of Photoshop
 * Image of the dbrand site, on the portfolio section is a screengrab of the website - [dbrand.com](https://dbrand.com/)
 * Image of nu.nl site, on the portfolio section is a screengrab of the website - [nu.nl](https://nu.nl/)
+* Image of the form-builder, is a screengrab of my code from the website
 
 ### Code
 * I used text-shadow generator from [Text Shadow CSS Generator Online](https://html-css-js.com/css/generator/text-shadow/) – Which has been applied to both header and footer and menu button on small view-windows
 * I used bootstrap 5.0.0 BETA as my toolkit to create the site’s layout - [Bootstrap](https://getbootstrap.com/)
 * I used the media queries described from [W3Schools](https://www.w3schools.com/css/css_rwd_mediaqueries.asp), and adjusted it to meet my needs
+* My mentor helped me with creating a script to auto-hide the burger menu, when clicking on a link. Many thanks for this Antonio!
 
 ### Acknowledgements
 * I found a lot of answers to queries I had on CSS-Tricks - [CSS Tricks](https://css-tricks.com/)
