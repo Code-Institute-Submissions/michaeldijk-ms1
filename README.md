@@ -7,7 +7,20 @@
 
 ## Index:
 * [UX section](https://github.com/michaeldijk/ms1#ux)
+	* [For what users is the site created?](https://github.com/michaeldijk/ms1#for-what-users-is-the-site-created)
+	* [What need had to be fulfilled?](https://github.com/michaeldijk/ms1#what-need-had-to-be-fulfilled)
+	* [How has the project helped achieve this goal?](https://github.com/michaeldijk/ms1#how-has-the-project-helped-achieve-this-goal)
+	* [User Stories](https://github.com/michaeldijk/ms1#user-stories)
+	* [Wireframes](https://github.com/michaeldijk/ms1#wireframes)
+	* [Navigation](https://github.com/michaeldijk/ms1#navigation)
+	* [Colours used](https://github.com/michaeldijk/ms1#colours-used)
 * [Features](https://github.com/michaeldijk/ms1#features)
+	* [Intro](https://github.com/michaeldijk/ms1#intro)
+	* [About](https://github.com/michaeldijk/ms1#about)
+	* [Portfolio](https://github.com/michaeldijk/ms1#portfolio)
+	* [Process](https://github.com/michaeldijk/ms1#process)
+	* [Contact](https://github.com/michaeldijk/ms1#contact)
+	* [Current existing features](https://github.com/michaeldijk/ms1#technologies-used)
 * [Technologies Used](https://github.com/michaeldijk/ms1#technologies-used)
 * [Testing](https://github.com/michaeldijk/ms1#testing)
 * [Deployment](https://github.com/michaeldijk/ms1#deployment)
@@ -179,7 +192,7 @@ Then followed by a percentage bar graphic, with an interactive moving slider. Sh
 
 The percentage bar graphic, changes in icons for the respective languages on smaller view-windows, to avoid further distraction, and to keep it within the team of minimalism.
 
-### Portfolio
+#### Portfolio
 The portfolio section, or, project section, is in line with the minimalism theme we want to portrait. It has a large image of the site that I have created, a small heading for the name of the project / site, and a paragraph detailing what I have done for the site, what coding skills I have applied.
 
 Once clicked on the image, it then brings you to the company / page, in a new window in the browser. To allow users to visit the live site, see and experience the site for themselves, as opposed to reading about it in full a lot of words. Many words are distracting, and would not be read, as attention span of visitors is often low, and only a select amount of people will read the full paragraphs.
@@ -281,7 +294,7 @@ The contact section is also managed by a form-checker, as there are some fields 
 
 Any other fields, are optional, and not necessary to be filled in.
 
-### Existing Features
+### Current existing Features
 * Header on the top of the page, is visible with a logo, and once clicked, this will bring you back to the beginning of the page
 * The header, has a responsive menu bar, which turns into a hamburger when it’s visible on smaller view-windows, and it expands into a menu on larger screens, with menu items aligning to the right
 * There is one call to action button on the home or intro section, which says “Get to know me…” to spark interest into reading more about myself, and it brings you to the about section, both smaller view-window as larger view-window
