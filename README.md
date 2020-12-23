@@ -94,6 +94,24 @@ Lastly, the contact section is the last section that we have, where the visitor,
 
 Paired with the contact section, in the footer itself, we also have my phone number for direct contact, and my email address, in case they want to contact me through their email client.
 
+#### Colours used
+Colours are a difficult subject for myself, as I am colour-blind. Therefore, I choose the right colours with the help of two different websites:
+* https://coolors.co 
+* Color Contrast Checker - Ensure Accessible Color Use for WCAG & ADA Compliance | Web Accessibility is UserWay
+
+![Colours choosen for the site](https://github.com/michaeldijk/ms1/blob/master/readmefiles/colours.PNG)
+
+I used coolors.co to allow me to find the right ratio’s / mix of colours, and this linked in with the contrast checker, I discovered the following:
+
+For the intro and footer section:
+![Colours choosen for the site](https://github.com/michaeldijk/ms1/blob/master/readmefiles/intro_colour.PNG)
+* Background colour: #6b705c
+* Text: #ffffff
+
+Ratio’s according to userway’s checker:
+![Userway Ratio's](https://github.com/michaeldijk/ms1/blob/master/readmefiles/intro_ratio.PNG)
+
+
 ### Features
 The website uses a *“one-page”* design. A navigation on top, which collapses into a burger menu for mobile view. 
 
