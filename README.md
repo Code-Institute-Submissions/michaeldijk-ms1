@@ -41,7 +41,7 @@ The goal has been achieved, by using a minimalist approach, with responsive desi
 Please see the following link to a PDF file containing the user stories and images for the user stories:
 * [user stories](https://github.com/michaeldijk/ms1/blob/master/readmefiles/userstories.pdf)
 
-#### Wireframes / Navigation / Colour options
+#### Wireframes
 For wireframes, we used the software Balsamiq, to create the mock-ups. See the images below for each section:
 * Intro / Main section
 	* Mobile:
@@ -78,7 +78,22 @@ For wireframes, we used the software Balsamiq, to create the mock-ups. See the i
 	* Desktop:
 	
 	![Contact Section wireframe, desktop](https://github.com/michaeldijk/ms1/blob/master/readmefiles/wireframe_contact_desktop.PNG)
-	
+
+#### Navigation
+![Navigation structure](https://github.com/michaeldijk/ms1/blob/master/readmefiles/navigation.PNG)
+
+The website will focus on a tree structure, going from top to bottom, starting with into/main section, which then links into the about section.
+From the about section, you will have several options, besides using the “menu”.
+In the about section, there is an option to:
+* Download resume
+* Go direct to the contact section, to seek contact with myself, for either project work, or recruiters wanting to contact me.
+
+Scrolling down, from the about section, you will enter the portfolio / project section. And after the portfolio / project section, you will then continue onwards to my process section, describing how I go about taking on clients, work, and my 4 step process described.
+
+Lastly, the contact section is the last section that we have, where the visitor, potential client, or, recruiter can get in touch with me.
+
+Paired with the contact section, in the footer itself, we also have my phone number for direct contact, and my email address, in case they want to contact me through their email client.
+
 ### Features
 The website uses a *“one-page”* design. A navigation on top, which collapses into a burger menu for mobile view. 
 
