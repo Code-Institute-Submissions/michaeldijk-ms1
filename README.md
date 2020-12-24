@@ -34,12 +34,12 @@ The project is used for attracting new clients and prospective employers, to all
 
 The site had to be clean, minimal and there was a need for focus on the site’s content, and, with the creation of this site, this goal has been achieved. 
 
-Prospective employers and clients can have an overview of who I am, what skills I possess, and what sites I have created in my time as a junior developer / freelance developer.
+Prospective employers and clients can have an overview of who I am, what skills I possess, and what sites I have created in my time as a junior / freelance developer.
 
 
 ### UX
 #### For what users is the site created?
-The site is created for prospective employers and prospective clients, to allow them an insight in my work process, my previous work / development jobs, and what interests I have further besides my development skills.
+The site is created for prospective employers and clients, to allow them an insight in my work process, my previous work / development jobs, and what interests I have further besides my development skills, they can also download my resume.
 
 #### What need had to be fulfilled?
 A website, that was pleasing to the eyes, interactive on different view-windows, sparks interest, and portraying a minimalist design.
@@ -50,8 +50,8 @@ The goal has been achieved, by using a minimalist approach, with responsive desi
 The goal has been achieved, by using a minimalist approach, with responsive design, different options visible on different view-windows. For example, the process section changes from small view-window (mobile) to large view-window, where the process is shown in a full section, as opposed to dropdown clickable buttons.
 
 #### User Stories
-Please see the following link to a PDF file containing the user stories and images for the user stories:
-* [user stories](https://github.com/michaeldijk/ms1/blob/master/readmefiles/userstories.pdf)
+Please see the following link to a markdown page containing the user stories and images for the user stories:
+* [user stories](https://github.com/michaeldijk/ms1/blob/master/userstoriesreadme.md)
 
 #### Wireframes, Navigation, Colours used
 Please see the following link to a markdown page containing the Wireframes, Navigation and colours used. I wanted to create a separate section for this, as it entails a lot of information, and would be best presented in a separate markdown page:
