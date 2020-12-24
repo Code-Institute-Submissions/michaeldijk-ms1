@@ -231,6 +231,8 @@ Any other fields, are optional, and not necessary to be filled in.
 The website’s code has been checked and validated with the help of:
 * [The W3C Markup Validation Service – HTML markup validation](https://validator.w3.org/)
 * [The W3C CSS Validation Service – CSS markup validation](https://jigsaw.w3.org/css-validator/)
+* [Autoprefixer CSS online](https://autoprefixer.github.io/)
+
 
 ### User Story testing
 1. As a potential client, I want to get to know the owner of the site, to see if they align with our values, and, see some of their previous work. 
