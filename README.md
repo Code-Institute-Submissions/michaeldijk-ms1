@@ -32,8 +32,6 @@ This is a project for a portfolio site, showcasing current skills, interests and
 
 The project is used for attracting new clients and prospective employers, to allow them to gain interest in my work, and how I take on new challenges.
 
-The reason for red colours and accents towards the red colours, is that red is my favourite colour, and, as I am colour blind it is sometimes hard to find the right balance in terms of colours matching up. Red is a very distinctive colour, allowing me to use this for the correct balance.
-
 The site had to be clean, minimal and there was a need for focus on the site’s content, and, with the creation of this site, this goal has been achieved. 
 
 Prospective employers and clients can have an overview of who I am, what skills I possess, and what sites I have created in my time as a junior developer / freelance developer.
@@ -270,7 +268,25 @@ The website’s code has been checked and validated with the help of:
 * When having my second meeting with my mentor, I noticed that he asked me what “MD” meant in the top-left of the site, which stood for initials of “Michael Dijk”, this gave the the decision to distinguish it appropriately, and added a logo instead.
 	* When adding the logo, I also decided to add my favicon, which is a coding icon
 * Manually tested the form on both mobile view and desktop view, and the validator is doing its work correctly
-	* I also made the form submit content, with the use of formspree’s free submission system, for testing
+	* I also made the form submit content, with the use of formspree’s free submission system, for testing, and it's passing through input correctly, and forwarding this to my email address
+
+#### Validation through W3 checker for both HTML and CSS
+* the mailto value in the footer, had a spacing inside the subject, causing an error to present itself, removed the spacing from the code, issue is since resolved
+```
+Error: Bad value mailto:contact@michaeldijk.com?subject=michaeldijk.com Contact for attribute href on element a: Illegal character in query: space is not allowed.
+
+From line 276, column 5; to line 276, column 98
+
+-3"> ↩				<a href="mailto:contact@michaeldijk.com?subject=michaeldijk.com Contact" class="footer-email"><i cla
+```
+* There was an error in a label for the form, precisely for the Country label. Instead of small letters, I had it set to a capital letter for Country, resolved this by adjusting it to "country"
+```
+Error: The value of the for attribute of the label element must be the ID of a non-hidden form control.
+
+From line 252, column 25; to line 252, column 84
+
+          <label for="Country" class="form-label form-label-override">Countr
+```
 
 ## Deployment
 The project was developed using a local IDE, and with the integration of git, which allowed me to push each change towards my GitHub Repository.
