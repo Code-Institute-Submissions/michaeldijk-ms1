@@ -43,8 +43,6 @@ The site is created for prospective employers and clients, to allow them an insi
 
 #### What need had to be fulfilled?
 A website, that was pleasing to the eyes, interactive on different view-windows, sparks interest, and portraying a minimalist design.
-How has the project helped achieve this goal?
-The goal has been achieved, by using a minimalist approach, with responsive design, different options visible on different view-windows. For example, the process section changes from small view-window (mobile) to large view-window, where the process is shown in a full section, as opposed to dropdown clickable buttons.
 
 #### How has the project helped achieve this goal?
 The goal has been achieved, by using a minimalist approach, with responsive design, different options visible on different view-windows. For example, the process section changes from small view-window (mobile) to large view-window, where the process is shown in a full section, as opposed to dropdown clickable buttons.
